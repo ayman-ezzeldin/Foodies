@@ -45,9 +45,10 @@ Here are some screenshots of the website:
 To run the project locally:
 
 1. Clone the repository:
+2. ```
    git clone https://github.com/ayman-ezzeldin/Foodies.git
 
-2. Navigate to the project folder:
+3. Navigate to the project folder:
     cd foodies
 
 ## Usage
