@@ -44,13 +44,11 @@ Here are some screenshots of the website:
 
 To run the project locally:
 
-1. Clone the repository:
-2. ```
+1. Clone the repository: ```
    git clone https://github.com/ayman-ezzeldin/Foodies.git
-
-3. Navigate to the project folder:
-    cd foodies
-
+2. Install the dependencies: ``` npm install
+3. Start the development server: ``` npm run dev
+   
 ## Usage
     You can use the website by exploring different sections through the navbar. The main section fetches content from an API, displaying food items in cards.
 
