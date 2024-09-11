@@ -51,8 +51,9 @@ To run the project locally:
    ```
     npm install
 3. Start the development server:
-```
-    npm run dev
+    ```
+   npm run dev
+
    
 ## Usage
     You can use the website by exploring different sections through the navbar. The main section fetches content from an API, displaying food items in cards.
