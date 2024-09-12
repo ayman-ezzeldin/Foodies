@@ -59,9 +59,14 @@ To run the project locally:
     You can use the website by exploring different sections through the navbar. The main section fetches content from an API, displaying food items in cards.
 
 ## Technologies
-  HTML,
-  CSS,
-  JavaScript,
-  React
+
+- HTML
+- CSS
+- JavaScript
+- React
+- react-router
+- react-redux
+- Tailwind CSS
+
 ## Contributing
   If you'd like to contribute to this project, feel free to submit a pull request or open an issue for discussion.
